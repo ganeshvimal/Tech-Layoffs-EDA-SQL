@@ -1,1 +1,3 @@
-# Tech-Layoffs-EDA-SQL
+# Tech-Layoffs-EDA-SQL 
+
+This SQL code performs an exploratory data analysis (EDA) on tech company layoffs, focusing on various metrics related to layoffs. It includes queries to identify the companies with the highest and lowest layoffs, the industries and countries most affected, and the impact of layoffs over time. The code also calculates rolling totals of layoffs by month, year-wise layoffs by company, and ranks companies by the number of employees laid off annually. Additionally, it filters top-ranked companies for each year. The analysis provides insights into the scale and patterns of layoffs in the tech industry.
